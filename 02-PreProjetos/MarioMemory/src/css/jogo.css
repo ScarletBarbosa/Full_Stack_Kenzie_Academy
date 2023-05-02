@@ -27,4 +27,20 @@ header div {
     line-height: 55px;
   }
   
-  
+header div p {
+    margin: 0 80px;
+}
+
+header button {
+    background: #e52521;
+    border: 3px solid #f4f4f4;
+    border-radius: 10px;
+    width: 200px;
+    height: 52px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #ffffff;
+    margin-right: 80px;
+}
