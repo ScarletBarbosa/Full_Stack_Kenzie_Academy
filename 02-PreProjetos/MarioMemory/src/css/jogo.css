@@ -44,3 +44,17 @@ header button {
     color: #ffffff;
     margin-right: 80px;
 }
+
+main {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: 0 auto;
+    width: 80%;
+    grid-column-gap: 20px;
+    grid-row-gap: 70px;
+}
+
+main img {
+    height: 200px;
+    width: 200px;
+}
