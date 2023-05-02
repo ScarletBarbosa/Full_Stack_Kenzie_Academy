@@ -69,3 +69,9 @@ main {
     height: 104px;
 }
 
+#jogar button:hover{
+    color: #f4f4f4;
+    background-color: transparent;
+    border: 3px solid #049cd8;
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+body {
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'nunito', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0 60 px;
+}
+
+header div {
+    background-image: url(../img/Pipe.png);
+    background-repeat: no-repeat;
+    width: 685px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 35px;
+    color: #f4f4f4;
+    line-height: 55px;
+  }
+  
+  
