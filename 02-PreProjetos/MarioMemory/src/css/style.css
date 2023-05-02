@@ -70,7 +70,7 @@ main {
 }
 
 #jogar button:hover{
-    color: #f4f4f4;
+    color: #049cd8;
     background-color: transparent;
     border: 3px solid #049cd8;
     cursor: pointer;
