@@ -9,7 +9,7 @@ let placar = 0;
 renderizarCartas();
 
 buttonEncerrar.addEventListener("click", () => {
-  window.location.assign("02-PreProjetos/index.html");
+  window.location.assign("../02-PreProjetos/index.html");
 });
 
 function renderizarCartas() {
